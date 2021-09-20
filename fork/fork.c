@@ -27,3 +27,8 @@ int main (){
     printf("this will be run by both child and parent\n\n");
     return 0;
 }
+// The ouput may be in different sequence for different set of executions, the reason is that after first fork 
+// there are two processes in the system and the processor is shifting from one process to another. Whichever 
+// process is getting the processor will output its content. Similarly for more than one fork it may have different
+// sequence of outputs.
+
