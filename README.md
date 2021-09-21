@@ -8,6 +8,6 @@ dup
 fork
 wait
 ....
-will update readme very soon
+will update readme with concise information very soon :)
 
 
