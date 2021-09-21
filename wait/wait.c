@@ -1,37 +1,27 @@
-// if you have multiple child process and you want to wait for a
-// perticular process then you can use waitpid()
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
 
-int main ()
+int main(void)
 {
-	pid_t pid, pid2;
-    printf("before fork...\n");
-    pid = fork();
+    pid_t p;
+    int w1, wstatus;
 
-    if(pid < 0){// fork failed
-        printf("error");
-
-    } else if(pid == 0) {
-        pid2 = fork();
-        if(pid2 == 0){
-            //sleep(1);// sleep or pause this process for 1 sec and let the parent finish its job first
-            printf("I am New child process with id : %d\n", getpid());
-            printf("First child's id : %d\n", getppid());
-        }else{
-            //sleep(2);
-            printf("I am child  id : %d\n", getpid());
-            printf("My parent's id : %d\n", getppid());
-        }
-
+    p = fork();
+    if(p == 0) {
+        printf("I am child with id %d \n", getpid());
+        printf("My parents id is %d \n", getppid());
+    
     } else {
-        waitpid(pid, NULL, 0);// makes the parent to wait for the child with specified pid to change its state
-        printf("I am parent havind id : %d\n", getpid());
-        printf("My child's id : %d\n", pid);
+        //wait(NULL);   if you are not concerned with wait status, use it. 
+        //It will change the state of child process to terminate state.
+        w1 = wait(&wstatus); // wait system call makes parent process to wait for the child 
+                            // process to terminate, therefore always use it in parent process.
+        printf("Child process status is %d, i.e, terminated\n", WIFEXITED(wstatus));
+        printf("Child process which is terminated is %d\n", w1);
+        printf("I am parent with id %d\n", getpid());
+        printf("My child's id is %d\n", p);
     }
-
-    printf("this will be run by both child and parent\n\n");
     return 0;
 }
