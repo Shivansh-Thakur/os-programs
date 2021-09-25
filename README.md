@@ -9,6 +9,7 @@
 7. orphan<br>
 8. zombie<br>
 9. execl<br>
+10. thread<br>
 ....<br>
 will update readme with concise information very soon :)
 
