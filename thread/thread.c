@@ -16,7 +16,10 @@ int main(void)
                                                             third parameter : thread_function that performs all the tasks that a thread is supposed to do
                                                             fourth parameter : arguments to this thread_function */
     pthread_join(a_thread, NULL);// process wait for the thread to finish
-    
+                                /* In the function pthread_join(a_thread, NULL)
+                                first argument : name of the thread
+                                second argument : variable that stores result returned by the thread
+                                */
     printf("In the main process : \n");
     for(i = 10; i < 15; i++) {
         printf("%d\n", i);
