@@ -9,8 +9,8 @@
 7. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/orphan"> orphan </a><br>
 8. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/zombie"> zombie </a><br>
 9. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/execl"> execl </a><br>
-10. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread"> thread </a><br> <strong><i> upcomming ... </i></strong> <br>
-11. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
+10. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread"> thread </a><br> 
+11. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/race-condition"> race-condition </a><br> <strong><i> upcomming ... </i></strong> <br>
 12. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 13. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 14. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
