@@ -12,8 +12,8 @@
 10. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread"> thread </a><br> 
 11. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/race-condition"> race-condition </a><br>
 12. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/semaphore"> semaphore </a><br> 
-13. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mutex-lock">  mutex-lock </a><br><strong><i> upcomming ... </i></strong> <br>
-14. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
+13. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mutex-lock">  mutex-lock </a><br>
+14. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication"> inter-process-communication </a><br> <strong><i> upcomming ... </i></strong> <br>
 15. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 16. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 17. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
