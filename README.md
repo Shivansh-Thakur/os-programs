@@ -15,8 +15,8 @@
 13. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mutex-lock">  mutex-lock </a><br>
 14. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication"> inter-process-communication </a><br>
 15. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication/ipc-shared-memory"> ipc-shared-memory </a><br> 
-16. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mkfifo"> mkfifo </a><br> <strong><i> upcomming ... </i></strong> <br>
-17. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
+16. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mkfifo"> mkfifo </a><br> 
+17. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/dining-philosopher-problem">dining-philosopher-problem</a><br> <strong><i> upcomming ... </i></strong> <br>
 18. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 19. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
 20. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
