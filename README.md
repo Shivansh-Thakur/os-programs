@@ -1,5 +1,5 @@
 # os-programs
-<h2>Sequence :</h2>
+<h2>INDEX :</h2>
 1. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/read-write"> read-write </a><br>
 2. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/open"> open </a><br>
 3. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/lseek"> lseek </a><br>
