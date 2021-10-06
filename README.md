@@ -17,14 +17,4 @@
 15. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication/ipc-shared-memory"> ipc-shared-memory </a><br> 
 16. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication/ipc-message-queue"> ipc-message-queue </a><br>
 17. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mkfifo"> mkfifo </a><br> 
-18. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/dining-philosopher-problem">dining-philosopher-problem</a><br> <strong><i> upcomming ... </i></strong> <br>
-19. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-20. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-21. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-22. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-23. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-24. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/thread">  </a><br>
-....<br>
-will update readme with concise information very soon :)
-
-
+18. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/dining-philosopher-problem">dining-philosopher-problem</a><br> 
