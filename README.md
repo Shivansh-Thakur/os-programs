@@ -18,7 +18,5 @@
 16. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/inter-process-communication/ipc-message-queue"> ipc-message-queue </a><br>
 17. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/mkfifo"> mkfifo </a><br> 
 18. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/dining-philosopher-problem">dining-philosopher-problem</a><br> 
-19. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/scheduling-algorithms">scheduling-algorithms</a><br> 
-20. dashboard
-
+19. <a href = "https://github.com/Shivansh-Thakur/os-programs/tree/main/scheduling-algorithms">scheduling-algorithms</a><br>
 
